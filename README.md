@@ -9,10 +9,12 @@ https://youtu.be/kCOBXg2sHcs
 Run
 ```sh
 npm install
+
 ```
 
 To start development
 
 ```sh
 npx vite
+
 ```

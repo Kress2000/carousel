@@ -1,5 +1,4 @@
  const imagesData = [
-    'https://lexica.art/prompt/bcf2a46f-fd8a-4a1a-9045-52824292ff93',
     './images/1.png',
     './images/01.png',
     './images/2.png',
